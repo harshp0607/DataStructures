@@ -1,3 +1,4 @@
 The purpose for this program is to function as an alegbraic expression evaluator.
+I wrote this program as an "expression" of my understanding of the stack data structure
 A calculator for expressions that is similar to a scientific calculator in its evalutation.
 Test files are included in the folder.
